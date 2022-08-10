@@ -54,7 +54,7 @@ sleep $delay
 # Exercício 9
 
 echo -e "\nApagando o diretorio backup"
-rmdir -rf backup
+rmdir backup
 sleep $delay
 
 # Exercício 10
