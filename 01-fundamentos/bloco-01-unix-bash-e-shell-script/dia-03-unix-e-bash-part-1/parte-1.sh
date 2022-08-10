@@ -28,11 +28,13 @@ mv trybe.txt trybe_normal.txt
 sleep $delay
 
 # Exercício 5
+
 echo -e "\nCriando diretorio backup"
 mkdir backup
 sleep $delay
 
 # Exercício 6
+
 echo -e "\nMovendo trybe_backup.txt para o diretorio backup"
 mv trybe_backup.txt backup
 sleep $delay
@@ -50,13 +52,14 @@ mv backup/trybe_backup.txt backup2
 sleep $delay
 
 # Exercício 9
+
 echo -e "\nApagando o diretorio backup"
 rmdir -rf backup
 sleep $delay
 
 # Exercício 10
-echo -e "\nRenomeando a pasta backup2 para backup"
 
+echo -e "\nRenomeando a pasta backup2 para backup"
 mv backup2 backup
 sleep $delay
 
@@ -73,6 +76,7 @@ ls
 sleep $delay
 
 # Exercício 13
+
 echo -e "\nLimpando o terminal dentro de $delay segundos"
 sleep $delay
 clear
@@ -81,6 +85,7 @@ clear
 
 echo -e "\nCriando arquivo skills.txt"
 echo -e "Internet\nUnix\nBash\nHTML\nCSS\nJavascript\nReact\nSQL" > skills.txt
+sleep $delay
 
 # Exercício 15
 
