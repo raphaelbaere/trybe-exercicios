@@ -71,7 +71,7 @@ Alemanha
 
 # Exercicio 10
 
-echo -e "\nCriando banch_of_thingies.txt
+echo -e "\nCriando bunch_of_thinges.txt
 cat phrases2.txt countries.txt > bunch_of_things.txt
 sleep $delay
 
