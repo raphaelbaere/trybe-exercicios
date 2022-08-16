@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  color: white;
+  font-family: fantasy;
+}
+
+body {
+  text-align: center;
+}
+
+#info-table{
+  display: inline-block;
+  border: 2px solid white;
+}
+
+ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+header {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  margin: 0;
+}
+
+td, th {
+  border: 2px solid white;
+}
+
+p {
+  margin: 20px 0px 20px 0px;
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+article {
+  width: 70%;
+  display: block;
+  margin: 100px 50px 20px;
+  box-shadow: 0px 0px 50px 1px white;
+  display: block;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+  border-bottom: 2px solid white;
+}
+
+body {
+  background-color: black;
+}
+
+header, nav {
+  background-color: white;
+  height: 55px;
+  box-shadow: 0px 0px 50px 1px white;
+}
+
+#header-title, nav ul li a {
+  color: black;
+}
+
+.text-images {
+  float:inline-end
+}
+
+section{
+  border-top: 2px solid white;
+  margin: 20px 0px 0px 0px;
+}
+
+aside {
+  width: 30%;
+  margin: 100px 10px 20px 20px;
+  border: 2px solid white;
+  box-shadow: 0px 0px 50px 1px white;
+  height: 50%;
+  position: sticky;
+  top: 150px;
+}
+
+main {
+  display: flex;
+}
+
+footer {
+  margin: 50px auto 20px auto;
+}
+
+img {
+  border: 1px solid white;
+  width: 300px;
+}
+
+#how-they-reproduce-text {
+  width: 80%;
+}
+
+#article-title {
+  border-top: 2px solid white;
+  padding-top: 20px;
+  margin-top: 0px;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+h3, p {
+  margin: 20px auto 20px auto;
+}
+
+#bibliografy-title {
+  margin: 20px auto;
+}
+
+#bibliografy {
+  padding-bottom: 20px;
+}
+
+.vision-text, .punch-text, #where-they-live-text {
+  width: 80%;
+}
+
+#general-info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#img-container {
+  width: 100%;
+}
+
+table {
+  margin: auto auto auto 40px;
+}
+
+#video-subtitle {
+  width: 80%;
+}
