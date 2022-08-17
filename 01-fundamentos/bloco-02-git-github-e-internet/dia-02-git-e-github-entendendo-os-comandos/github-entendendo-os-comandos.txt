@@ -1,0 +1,1 @@
+Nesse dia, entramos mais a fundo em Git e Github, aprendendo sobre todos os comandos que serão necessários para realizarmos o versionamento do nosso código de maneira eficiente e produtiva. Realizamos algumas práticas e tivemos aulas sobre o assunto.

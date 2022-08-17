@@ -1,0 +1,1 @@
+Nesse dia, aprendemos um pouco sobre o git e o github. Como criarmos nossa conta, como utilizarmos o serviço SSH de validação, como adicionar o processo de verificação de duas chaves e em geral, sobre o que é o Git e o Github, para que servem e como utilizá-los de maneira eficiente para nos ajudar em nosso trabalho e dia-a-dia.
