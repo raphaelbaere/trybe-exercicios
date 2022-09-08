@@ -1,7 +1,7 @@
 const submitButton = document.querySelector('#submit-button')
 const concordo2 = document.querySelector('#concordo2')
-const nameInput = document.querySelector('#input-nome');
-const email = document.querySelector('#input-email')
+const nameInput = document.querySelector('#nome');
+const email = document.querySelector('#email')
 const textarea = document.querySelector('#answer-text')
 
 
