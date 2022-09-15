@@ -7,4 +7,4 @@ function isPalindrome(string) {
     return false
 }
 
-console.log(isPalindrome("socorrammesubinoonibusemmarrocos"))
+console.log(isPalindrome("not a palindrome"))

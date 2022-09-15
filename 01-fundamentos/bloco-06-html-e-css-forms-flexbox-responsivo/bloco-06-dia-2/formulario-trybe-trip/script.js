@@ -23,4 +23,10 @@ submitButton.addEventListener('click', (event) => {
     }
 })
 
-
+concordo2.addEventListener('click', () => {
+    if (concordo2.checked && nameInput.value.length <= 40 && nameInput.value.length >= 10 
+        && email.value.length <= 50 && email.value.length >= 10 && textarea.value.length >= 10 && textarea.value.length <= 500) {
+            submitButton.style.backgroundColor = 'green';
+            submitButton.style.color = 'white';
+        }
+})
