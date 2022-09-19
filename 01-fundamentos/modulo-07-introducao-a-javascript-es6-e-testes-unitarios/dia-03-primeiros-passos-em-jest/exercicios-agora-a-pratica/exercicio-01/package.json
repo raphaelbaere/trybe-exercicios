@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.0.3"
+  },
+  "name": "exercicio01",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
