@@ -9,8 +9,6 @@ const books = [
       },
       releaseYear: 1991,
     },
-    // Encontre o nome da primeira pessoa autora do livro nascida no ano de 1947.
-    
     {
       id: 2,
       name: 'O Senhor dos Anéis',

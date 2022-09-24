@@ -64,14 +64,15 @@ const books = [
   const expectedResult = false;
 
 const authorUnique = (array) => {
-    for (let index = 0; index < array.length; index += 1) {
-        for (let index2 = 0; index2 < array.length; index +=1) {
-            if (array[index].author.birthYear === array[index2].author.birthYear) {
-                return false
-            }
-        }
-    }
-    return true;
+  let result = true;
+  array.forEach((element) => {
+    array.forEach((element2) => {
+      if (element.author.birthYear === element2.author.birthYear && element.author.name !== element2.author.name) {
+        result = false;
+      }
+    })
+  })
+  return result;
 }
 
 console.log(authorUnique(books))
