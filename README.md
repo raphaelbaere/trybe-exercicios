@@ -13,13 +13,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 1-3: _Unix & Shell- Part 1_
 - [x] 1-4: _Unix & Shell- Part 2_
 
-##### Seção 2: Git & GitHub
+##### Seção 2: Git & GitHub e Internet
 
 - [x] 2-1: _O que é e para que serve?_
 - [x] 2-2: _Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Seção 3: HTML & CSS
+##### Seção 3: Introdução à HTML & CSS
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Seção 4: JavaScript
+##### Seção 4: Introdução à JavaScript
 
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
@@ -35,17 +35,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _[Projeto - Playground Functions]()_
 
-##### Seção 5: JavaScript - Projetos
+##### Seção 5: JavaScript: DOM, Eventos e Web Storage
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _[Projeto - Meme Generator]()_
-- [x] 5-6: _[Projeto - Arte com Pixels]()_
-- [x] 5-7: _[Projeto - Lista de tarefas]()_
-- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [x] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-5: _[Projeto - Arte com Pixels]()_
+- [x] 5-6: _[Projeto Bônus - Meme Generator]()_
+- [x] 5-7: _[Projeto Bônus - Lista de tarefas]()_
+- [x] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
+- [x] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
 ##### Seção 6: HTML & CSS avançado
 
@@ -54,7 +54,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
+- [x] 6-6: _[Projeto - TrybeWarts]()_
 
 ##### Seção 7: JavaScript ES6 & Testes Unitários
 
